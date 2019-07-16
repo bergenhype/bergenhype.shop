@@ -26,6 +26,16 @@ body {
     float: right;
 }
 
+#center {
+    font-family: Helvetica, Helvetica, sans-serif;
+    font-weight: 100;
+    text-align: right;
+    font-size:20;
+    color: white;
+    display: inline-block;
+    float: right;
+}
+
 a:link {
     color: white;
     }
