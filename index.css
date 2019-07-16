@@ -29,11 +29,11 @@ body {
 #center {
     font-family: Helvetica, Helvetica, sans-serif;
     font-weight: 100;
-    text-align: right;
+    text-align: center;
     font-size:20;
     color: white;
     display: inline-block;
-    float: right;
+    float: center;
 }
 
 a:link {
